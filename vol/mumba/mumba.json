@@ -1,1 +1,17 @@
+{
+  "response": [
+    {
+      "maintainer": "Viaan",
+      "oem": "Motorola",
+      "device": "Moto G57 Power",
+      "filename": "voltage-5.10-mumba-20260531-1040-UNOFFICIAL.zip",
+      "download": "https://viaanserver.dpdns.org/downloads/mumba/ROMs/VOS/31-05-2026/voltage-5.10-mumba-20260531-1040-UNOFFICIAL.zip",
+      "timestamp": 1780225203,
+      "md5": "6665f19ca397b5b114354740d3a06aae",
+      "size": 1277427946,
+      "version": "5.10"
+    }
+  ]
+}
+
 
